@@ -37,7 +37,7 @@ module.exports = {
   
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/TAILIEU', '/SAOVIET', '/Backup','/Documents','/Pictures'],
+  protectedRoutes: ['/TAI LIEU', '/SAOVIET', '/Backup','/Documents','/Pictures'],
 
     // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
